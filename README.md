@@ -100,34 +100,50 @@ Auditing Linux environments for security vulnerabilities and bottlenecks.
 
 ### `>> featured.projects`
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://aur.archlinux.org/packages/luna-ai-reborn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunachalam-gojosaturo&repo=luna-ai-reborn&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ff88&text_color=4a9ebe&icon_color=00ff88" width="48%"/>
-</a>
-<a href="https://aur.archlinux.org/packages/cyberkit-git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunachalam-gojosaturo&repo=cyberkit-git&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ff88&text_color=4a9ebe&icon_color=00ff88" width="48%"/>
-</a>
-<br/>
-<a href="https://aur.archlinux.org/packages/netwatch-git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunachalam-gojosaturo&repo=netwatch-git&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ff88&text_color=4a9ebe&icon_color=00ff88" width="48%"/>
-</a>
-<a href="https://aur.archlinux.org/packages/luna-hyprdots">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arunachalam-gojosaturo&repo=luna-hyprdots&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ff88&text_color=4a9ebe&icon_color=00ff88" width="48%"/>
-</a>
+**[🎙️ Luna AI Reborn](https://aur.archlinux.org/packages/luna-ai-reborn)**
+Hacker-style voice AI assistant for Linux desktops.
 
-</div>
+![Status](https://img.shields.io/badge/status-STABLE-00ff88?style=flat-square&labelColor=000d1a)
+![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **[Luna AI Reborn](https://aur.archlinux.org/packages/luna-ai-reborn)** | Hacker-style voice AI assistant for Linux desktops | `STABLE` |
-| **[Netwatch](https://aur.archlinux.org/packages/netwatch-git)** | Real-time network intrusion monitor & defensive security | `NEW` |
-| **[Cyberkit](https://aur.archlinux.org/packages/cyberkit-git)** | 22-in-1 cybersecurity toolkit for the Arch ecosystem | `VETERAN` |
-| **[Luna Hyprdots](https://aur.archlinux.org/packages/luna-hyprdots)** | Modern minimalist Hyprland rice featuring AGS | `STABLE` |
+**[🛡️ Cyberkit](https://aur.archlinux.org/packages/cyberkit-git)**
+22-in-1 cybersecurity toolkit for the Arch ecosystem.
 
-</div>
+![Status](https://img.shields.io/badge/status-VETERAN-00ff88?style=flat-square&labelColor=000d1a)
+![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📡 Netwatch](https://aur.archlinux.org/packages/netwatch-git)**
+Real-time network intrusion monitor & defensive security.
+
+![Status](https://img.shields.io/badge/status-NEW-00ff88?style=flat-square&labelColor=000d1a)
+![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
+
+</td>
+<td width="50%" valign="top">
+
+**[🎨 Luna Hyprdots](https://aur.archlinux.org/packages/luna-hyprdots)**
+Modern minimalist Hyprland rice featuring AGS.
+
+![Status](https://img.shields.io/badge/status-STABLE-00ff88?style=flat-square&labelColor=000d1a)
+![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
+
+</td>
+</tr>
+</table>
+
+> Note: I pulled the auto-generated "pinned repo" card images out of this section — they were querying your AUR package names (`netwatch-git`, `cyberkit-git`, etc.) as if they were GitHub repo names, and at least one of those doesn't match the real repo (`netwatch-git` on AUR actually points to `github.com/Arunachalam-gojosaturo/netwatch`, no `-git` suffix). Tell me your exact repo names and I'll add real pinned-repo cards back in — for now this table needs zero GitHub API calls, so it can't break.
 
 ---
 
