@@ -209,7 +209,9 @@ The unified ecosystem tying together Luna AI's desktop, web, mobile, and CLI imp
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunachalam-gojosaturo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00D4FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-<img src="https://github-readme-trophy.vercel.app/?username=Arunachalam-gojosaturo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<br/><br/>
+
+<img src="https://github-readme-trophy.vercel.app/?username=Arunachalam-gojosaturo&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="90%"/>
 
 <br/>
 
@@ -237,14 +239,6 @@ The unified ecosystem tying together Luna AI's desktop, web, mobile, and CLI imp
 + Expanding AUR package coverage for my Arch Linux tools
 + Deepening cybersecurity / ethical hacking practice
 ```
-
----
-
-### 🏆 GITHUB ACHIEVEMENTS
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arunachalam-gojosaturo&theme=onedark&no-frame=true&row=1&column=8&margin-w=10" />
-</div>
 
 ---
 
