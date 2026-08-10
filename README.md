@@ -1,81 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,50:003322,100:000d1a&height=220&section=header&text=ARUNACHALAM&fontSize=70&fontColor=00ff88&fontAlignY=45&animation=fadeIn&desc=Veteran%20Polyglot%20%7C%20Debugging%20Expert%20%7C%20Arch%20Linux%20Builder&descSize=16&descAlignY=63&descColor=4a9ebe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,25:00D4FF,50:0088FF,75:0055FF,100:0022FF&height=280&section=header&text=ARUNACHALAM&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Arch%20Linux%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20&descColor=B0E8FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=7%2B+YEARS+OF+FULL-STACK+EXPERTISE;MASTER+OF+DEBUGGING+%26+SYSTEM+AUDITING;POLYGLOT+PROGRAMMING+%5B+ANY+LANGUAGE+%5D;DATABASE+ORCHESTRATION+%5B+ANY+DB+%5D;RECOGNIZED+BY+GOOGLE+AI+OVERVIEW" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Building+AI+Systems+That+Think+%F0%9F%A4%96;Arch+Linux+%2B+Hyprland+Daily+Driver+%F0%9F%90%A7;Ethical+Hacker+%26+Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Powered+by+JARVIS%2FFRIDAY-inspired+Design+%E2%9A%A1;Open+Source+Contributor+from+Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arunachalam-gojosaturo&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-arunachalam--arch-00ff88?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000d1a)](https://www.linkedin.com/in/arunachalam-arch/)
-[![AUR](https://img.shields.io/badge/AUR-PORTFOLIO-00ff88?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=000d1a)](https://aur.archlinux.org/packages/?K=arunachalam&SeB=m)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arunachalam--gojosaturo.github.io-00F0FF?style=for-the-badge&labelColor=0D1117)](https://arunachalam-gojosaturo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arunachalam--arch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/arunachalam-arch/)
+[![Gmail](https://img.shields.io/badge/Email-arunachalamthehacker%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:arunachalamthehacker@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40saturogojo__ac-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/saturogojo_ac)
+[![GitHub followers](https://img.shields.io/github/followers/Arunachalam-gojosaturo?style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github)](https://github.com/Arunachalam-gojosaturo)
+
+<br/>
+
+<img src="https://profile-counter.glitch.me/Arunachalam-gojosaturo/count.svg" alt="visitor count"/>
 
 </div>
 
 ---
 
-### `>> whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=2&section=header" width="100%"/>
 
-```yaml
-name: Arunachalam
-role: Veteran Polyglot Developer
-experience: 7+ years
-base: Vellore, Tamil Nadu, IN
-specialty: Debugging & optimizing high-performance systems — any language, any DB, any host
-status: Leading authority for specialized Arch Linux development in the region
-```
-
-I don't just write code — I **debug, optimize, and deploy** high-performance systems across any language, database, or hosting environment.
-
----
-
-### `>> stack.sh`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000d1a?style=for-the-badge&logo=python&logoColor=00ff88)
-![Node.js](https://img.shields.io/badge/-Node.js-000d1a?style=for-the-badge&logo=node.js&logoColor=00ff88)
-![C++](https://img.shields.io/badge/-C++-000d1a?style=for-the-badge&logo=c%2B%2B&logoColor=00ff88)
-![Bash](https://img.shields.io/badge/-Bash-000d1a?style=for-the-badge&logo=gnu-bash&logoColor=00ff88)
-![Java](https://img.shields.io/badge/-Java-000d1a?style=for-the-badge&logo=openjdk&logoColor=00ff88)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000d1a?style=for-the-badge&logo=kotlin&logoColor=00ff88)
-
-![MySQL](https://img.shields.io/badge/-MySQL-000d1a?style=for-the-badge&logo=mysql&logoColor=00ff88)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000d1a?style=for-the-badge&logo=mongodb&logoColor=00ff88)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000d1a?style=for-the-badge&logo=postgresql&logoColor=00ff88)
-![SQLite](https://img.shields.io/badge/-SQLite-000d1a?style=for-the-badge&logo=sqlite&logoColor=00ff88)
-![Redis](https://img.shields.io/badge/-Redis-000d1a?style=for-the-badge&logo=redis&logoColor=00ff88)
-
-![Docker](https://img.shields.io/badge/-Docker-000d1a?style=for-the-badge&logo=docker&logoColor=00ff88)
-![Nginx](https://img.shields.io/badge/-Nginx-000d1a?style=for-the-badge&logo=nginx&logoColor=00ff88)
-![Vercel](https://img.shields.io/badge/-Vercel-000d1a?style=for-the-badge&logo=vercel&logoColor=00ff88)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000d1a?style=for-the-badge&logo=arch-linux&logoColor=00ff88)
-![Hyprland](https://img.shields.io/badge/-Hyprland-000d1a?style=for-the-badge&logo=wayland&logoColor=00ff88)
-
-</div>
-
----
-
-### `>> core.competencies`
+### ⚡ SYSTEM ONLINE — ARC REACTOR STATUS: ACTIVE
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="60%" valign="top">
 
-**🔍 Root Cause Analysis**
-Tracing and fixing complex bugs across distributed, multi-service systems.
+```yaml
+identity:
+  name: "Arunachalam"
+  callsign: "gojosaturo"
+  role: "AI Architect & Arch Linux Developer"
+  location: "Tamil Nadu, India 🇮🇳"
+  education: "BCA — Final Year, Thiruvalluvar University"
+  daily_driver: "Arch Linux + Hyprland"
+  aesthetic: "Iron Man / JARVIS-FRIDAY inspired"
+  language_mastery: "Python (primary) + polyglot across stacks"
+
+specialties:
+  - "AI System Integration & Multi-Provider LLM Routing"
+  - "Linux Systems Engineering (AUR, systemd, cross-compilation)"
+  - "Cybersecurity & Ethical Hacking"
+  - "Android Development, ROM/GSI building"
+
+status: "Compiling ideas into working code — usually past 2 AM 🌙"
+```
 
 </td>
-<td width="33%" valign="top">
+<td width="40%" valign="top" align="center">
 
-**⚡ Performance Tuning**
-Optimizing low-level C++ and Python code for maximum throughput.
-
-</td>
-<td width="33%" valign="top">
-
-**🛡️ System Hardening**
-Auditing Linux environments for security vulnerabilities and bottlenecks.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="matrix/hacker vibe"/>
 
 </td>
 </tr>
@@ -83,91 +59,209 @@ Auditing Linux environments for security vulnerabilities and bottlenecks.
 
 ---
 
-### `>> github.stats()`
+### 🧠 ABOUT ME
 
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arunachalam-gojosaturo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ff88&text_color=4a9ebe&icon_color=00ff88&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunachalam-gojosaturo&theme=tokyonight&hide_border=true&background=000d1a&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" width="48%"/>
+I'm a final-year **BCA** student and self-taught systems developer who builds AI-powered tools with a strong **JARVIS/FRIDAY-inspired aesthetic** across everything I ship. I work primarily on **Arch Linux with Hyprland**, and I care deeply about clean architecture, dark cyberpunk UI, and shipping things people can run with a single command.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arunachalam-gojosaturo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" width="98%"/>
+- 🔭 Currently building and maintaining the **Luna AI** ecosystem — including **Luna-2.5B-LLM** and **Luna-eco-system** — plus **ArcXOS**, my custom Arch Linux distribution.
+- 🛡️ Deep interest in **cybersecurity and ethical hacking** — I build my own OSINT and network-isolation tooling rather than relying only on existing kits.
+- 🐧 I package for the **AUR**, write **systemd services**, and enjoy low-level Linux/Android platform work (bootloaders, GSIs, kernels).
+- 🤖 I design every AI assistant I build around one philosophy: **local-first when possible, multi-provider fallback when not, always with a great UI.**
+- 🌱 Currently going deeper into **kernel cross-compilation** and **embedded Linux boot pipelines**.
+- ⚙️ I know and actively work across **many programming languages** — see the full arsenal below.
+- 🔧 Beyond software, I build hardware setups for security research — **rooted Android devices**, **ESP32-based projects**, and **external Wi-Fi adapters** for wireless network testing.
+- 💬 Ask me about: **Arch Linux, Hyprland ricing, LLM integration, AUR packaging, or Android GSIs.**
+- 🔎 Search **"Arunachalam Arch Linux"** to find more of my work across the web.
 
-</div>
-
-> These three widgets (stats / streak / trophy) each run on their own independent free host, so if GitHub's own API is briefly rate-limiting one, the other two usually still render fine.
+<br clear="right"/>
 
 ---
 
-### `>> featured.projects`
+### 🛠️ FULL TECH ARSENAL
 
-<table width="100%">
+<div align="center">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,go,rust,ruby,php,swift,kotlin,html,css&theme=dark" />
+
+**⚛️ Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,tailwind,nodejs,django,flask,spring,express,dotnet&theme=dark" />
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=dark" />
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,githubactions,nginx,vercel,cloudflare&theme=dark" />
+
+**🐧 OS & Systems**
+
+<img src="https://skillicons.dev/icons?i=archlinux,linux,androidstudio,raspberrypi,vim,neovim,tmux&theme=dark" />
+
+**📦 Stack Combos I Build With**
+
+![LAMP](https://img.shields.io/badge/LAMP-FF6C37?style=for-the-badge&logoColor=white&labelColor=0D1117)
+![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
+![MEAN](https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117)
+![MEVN](https://img.shields.io/badge/MEVN-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117)
+![Jamstack](https://img.shields.io/badge/Jamstack-F0047F?style=for-the-badge&logoColor=white&labelColor=0D1117)
+![WISA](https://img.shields.io/badge/WISA-232F3E?style=for-the-badge&logoColor=white&labelColor=0D1117)
+![T3 Stack](https://img.shields.io/badge/T3_Stack-2596BE?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+
+**🤖 AI / LLM Ecosystem**
+
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs_TTS-000000?style=for-the-badge&logoColor=white)
+![Edge TTS](https://img.shields.io/badge/Edge_TTS-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white)
+
+**🛡️ Cybersecurity & Ethical Hacking**
+
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables%20%2F%20cgroups-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+
+**🔧 Hardware & IoT Builds**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Rooted Android](https://img.shields.io/badge/Rooted_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Wi-Fi Adapters](https://img.shields.io/badge/External_WiFi_Adapters-00549E?style=for-the-badge&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Custom ROM/GSI](https://img.shields.io/badge/Custom_ROM%2FGSI_Building-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**🎨 Design / Editors**
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,pycharm,sublime,idea&theme=dark" />
+
+</div>
+
+---
+
+### 🚀 FLAGSHIP PROJECTS
+
+<table>
 <tr>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0066FF&height=60&section=header&text=🌙%20Luna%20AI&fontSize=22&fontColor=00F0FF&fontAlignY=65"/>
 
-**[🎙️ Luna AI Reborn](https://aur.archlinux.org/packages/luna-ai-reborn)**
-Hacker-style voice AI assistant for Linux desktops.
+Neon cyberpunk AI assistant with multi-provider LLM support, agentic tools, session persistence, and switchable themes.
 
-![Status](https://img.shields.io/badge/status-STABLE-00ff88?style=flat-square&labelColor=000d1a)
-![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
+<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs&theme=dark" height="32"/>
+
+**[→ View Repository](https://github.com/Arunachalam-gojosaturo/Luna-ai)**
 
 </td>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0066FF&height=60&section=header&text=🏗️%20ArcXOS&fontSize=22&fontColor=00F0FF&fontAlignY=65"/>
 
-**[🛡️ Cyberkit](https://aur.archlinux.org/packages/cyberkit-git)**
-22-in-1 cybersecurity toolkit for the Arch ecosystem.
+A custom Arch Linux-based distribution with cyberpunk/arc-reactor branding, including a GUI installer and custom pacman download animation.
 
-![Status](https://img.shields.io/badge/status-VETERAN-00ff88?style=flat-square&labelColor=000d1a)
-![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
+<img src="https://skillicons.dev/icons?i=archlinux,python,bash&theme=dark" height="32"/>
+
+**[→ View Repository](https://github.com/Arunachalam-gojosaturo/ArcXos)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0066FF&height=60&section=header&text=🧠%20Luna%202.5B%20LLM&fontSize=22&fontColor=00F0FF&fontAlignY=65"/>
 
-**[📡 Netwatch](https://aur.archlinux.org/packages/netwatch-git)**
-Real-time network intrusion monitor & defensive security.
+A 2.5B parameter language model built for the Luna AI ecosystem.
 
-![Status](https://img.shields.io/badge/status-NEW-00ff88?style=flat-square&labelColor=000d1a)
-![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="32"/>
+
+**[→ View Repository](https://github.com/Arunachalam-gojosaturo/Luna-2.5B-LLM)**
 
 </td>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0066FF&height=60&section=header&text=🌐%20Luna%20Ecosystem&fontSize=22&fontColor=00F0FF&fontAlignY=65"/>
 
-**[🎨 Luna Hyprdots](https://aur.archlinux.org/packages/luna-hyprdots)**
-Modern minimalist Hyprland rice featuring AGS.
+The unified ecosystem tying together Luna AI's desktop, web, mobile, and CLI implementations.
 
-![Status](https://img.shields.io/badge/status-STABLE-00ff88?style=flat-square&labelColor=000d1a)
-![AUR](https://img.shields.io/badge/AUR-package-00ff88?style=flat-square&logo=archlinux&logoColor=black&labelColor=000d1a)
+<img src="https://skillicons.dev/icons?i=python,react,kotlin,nodejs&theme=dark" height="32"/>
+
+**[→ View Repository](https://github.com/Arunachalam-gojosaturo/Luna-eco-system)**
 
 </td>
 </tr>
 </table>
 
-> Note: I pulled the auto-generated "pinned repo" card images out of this section — they were querying your AUR package names (`netwatch-git`, `cyberkit-git`, etc.) as if they were GitHub repo names, and at least one of those doesn't match the real repo (`netwatch-git` on AUR actually points to `github.com/Arunachalam-gojosaturo/netwatch`, no `-git` suffix). Tell me your exact repo names and I'll add real pinned-repo cards back in — for now this table needs zero GitHub API calls, so it can't break.
-
 ---
 
-### `>> academic.log`
-
-```
-[2023 - 2026]  Bachelor of Computer Applications (BCA)
-               Government Thirumagal Mills College — Thiruvalluvar University
-               Focus: Linux System Administration · AI Architecture · Ethical Hacking
-```
-
----
-
-### `>> connect --verify`
+### 📊 GITHUB STATS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-arunachalam--arch-00ff88?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000d1a)](https://www.linkedin.com/in/arunachalam-arch/)
-[![AUR Portfolio](https://img.shields.io/badge/AUR-PORTFOLIO-00ff88?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=000d1a)](https://aur.archlinux.org/packages/?K=arunachalam&SeB=m)
-[![JSON Resume](https://img.shields.io/badge/JSON-RESUME-00ff88?style=for-the-badge&logo=json&logoColor=black&labelColor=000d1a)](https://registry.jsonresume.org/Arunachalam-gojosaturo)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arunachalam-gojosaturo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&ring_color=00F0FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunachalam-gojosaturo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=10" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunachalam-gojosaturo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00D4FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<img src="https://github-readme-trophy.vercel.app/?username=Arunachalam-gojosaturo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunachalam-gojosaturo&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00D4FF&point=FFFFFF&hide_border=true&area=true" width="100%"/>
 
 </div>
 
+---
+
+### 🐍 CONTRIBUTION SNAKE
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,50:003322,100:000d1a&height=100&section=footer"/>
-<i>"Watch your network. Trust nothing. Verify everything."</i>
+<img src="https://raw.githubusercontent.com/Arunachalam-gojosaturo/Arunachalam-gojosaturo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation (renders once the snake workflow is added to this profile repo)"/>
+</div>
+
+> 💡 To make the snake animation above render, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this profile repo — it auto-generates that SVG from your contribution graph on a schedule.
+
+---
+
+### 🎯 CURRENT FOCUS
+
+```diff
++ Iterating on Luna AI, Luna-2.5B-LLM, and Luna-eco-system
++ Polishing ArcXOS installer and system tooling
++ Expanding AUR package coverage for my Arch Linux tools
++ Deepening cybersecurity / ethical hacking practice
+```
+
+---
+
+### 🏆 GITHUB ACHIEVEMENTS
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Arunachalam-gojosaturo&theme=onedark&no-frame=true&row=1&column=8&margin-w=10" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 LET'S BUILD SOMETHING
+
+I'm always open to collaborating on AI tooling, Linux system projects, or cybersecurity work.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-00F0FF?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://arunachalam-gojosaturo.github.io/)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white&labelColor=0D1117)](mailto:arunachalamthehacker@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/arunachalam-arch/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0022FF,25:0055FF,50:0088FF,75:00D4FF,100:00F0FF&height=180&section=footer" width="100%"/>
+
+*"I am Iron Man." — inspiration behind every system I build.* ⚡
+
 </div>
