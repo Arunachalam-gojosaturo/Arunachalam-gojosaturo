@@ -227,7 +227,7 @@ The unified ecosystem tying together Luna AI's desktop, web, mobile, and CLI imp
 <img src="https://raw.githubusercontent.com/Arunachalam-gojosaturo/Arunachalam-gojosaturo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation (renders once the snake workflow is added to this profile repo)"/>
 </div>
 
-> 💡 To make the snake animation above render, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this profile repo — it auto-generates that SVG from your contribution graph on a schedule.
+
 
 ---
 
